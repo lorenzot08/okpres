@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             lele l = new lele();
+            Console.WriteLine("Ciao");
 
         }
     }
