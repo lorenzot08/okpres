@@ -10,5 +10,6 @@ namespace okpres
     class lele
     {
         public string Nome {get;set;}
+        public string Ciao {get; set;}
     }
 }
