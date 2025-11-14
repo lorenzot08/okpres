@@ -8,5 +8,6 @@ namespace okpres
 {
     class anto
     {
+        public string Cognome { get; set; }
     }
 }
