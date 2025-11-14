@@ -9,5 +9,6 @@ namespace okpres
     class anto
     {
         public string Cognome { get; set; }
+        public string Sinner {get; set;}
     }
 }
